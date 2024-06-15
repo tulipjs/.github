@@ -1,4 +1,4 @@
-# Tulip 🌷
+# 🌷 tulip 
 
 Welcome to Tulip, the next JS game library for everyone.
 
