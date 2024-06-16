@@ -10,4 +10,4 @@ Including tools to render (2d and/or isometric), understandable physics, easy to
 ## Projects
 
 - 🌷 [Tulip](https://github.com/tulipjs/tulip) 
-- 💾 [Vite Tulip Plugin](https://github.com/tulipjs/tulip)
+- 💾 [Vite Tulip Plugin](https://github.com/tulipjs/vite-tulip)
