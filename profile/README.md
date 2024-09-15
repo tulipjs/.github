@@ -12,3 +12,7 @@ Including tools to render (2d and/or isometric), understandable physics, easy to
 - 🌷 [Tulip](https://github.com/tulipjs/tulip) 
 - 💾 [Vite Tulip Plugin](https://github.com/tulipjs/vite-tulip-plugin)
 - 🧮 [Queue](https://github.com/tulipjs/queue) 
+
+## Games
+
+- 🐍 [Snake](https://github.com/tulipjs/snake) 
