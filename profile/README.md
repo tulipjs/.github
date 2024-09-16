@@ -15,4 +15,6 @@ Including tools to render (2d and/or isometric), understandable physics, easy to
 
 ## Games
 
-- 🐍 [Snake](https://github.com/tulipjs/snake) 
+- 🐍 [Snake](https://github.com/tulipjs/snake)
+---
+- 🏨 [Open Hotel](https://github.com/openhotel) 
